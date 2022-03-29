@@ -1,7 +1,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-Fully responsive e portfolio made for a fictional charecter 
+Fully responsive e portfolio made for a fictional character
 
 
 
